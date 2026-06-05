@@ -1,0 +1,1 @@
+# kubernets-minikube-pod-deplyoment
