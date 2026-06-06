@@ -1,4 +1,4 @@
-\#project : local Kubernetes cluster with minikube
+##project : local Kubernetes cluster with minikube
 
 
 
@@ -6,14 +6,14 @@ this repo contains the deployment config files and verification screenshots for 
 
 
 
-\#peoject files
+##peoject files
 
 * "deployment.yaml" : config and nginx deployment starting with 2 replicas.
 * "service.yaml" : exposes the nginx deployment locally via port 30080.
 
 
 
-\#steps
+##steps
 
 1. started the local cluster using docker
 2. applied config
